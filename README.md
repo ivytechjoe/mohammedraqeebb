@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedraqeebb&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedraqeebb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedraqeebb" alt="mohammedraqeebb" /></a> </p>
-
 - 🔭 I’m currently **building an E-commerce platform for cosmetics**
 
 - 🤝 I’m looking to get started with **Open Source**
