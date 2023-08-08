@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently **building an E-commerce platform for cosmetics**
 
-- 🤝 I’m looking to get started with **Open Source**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
