@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedraqeebb&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedraqeebb" /> </p>
 
-- 🔭 I’m currently **building an E-commerce platform for cosmetics**
+
 
 
 
